@@ -40,10 +40,16 @@ s GitHub)
 
 ## Setup
 
+**Directly Run .Exe**
+
+   ```bash
+   download the release file and open Bin folder and the tun Unity Discoird Presene.exe
+   ```
+
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/yourusername/unity-discord-presence.git
+   git clone https://github.com/InboraStudio/Discord-Unity-6-Presence.git
    cd unity-discord-presence
    ```
 
