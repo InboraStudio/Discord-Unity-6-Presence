@@ -1,0 +1,13 @@
+C:\Users\aloka\source\repos\Unity Discord Presence\bin\Debug\Unity Discord Presence.exe.config
+C:\Users\aloka\source\repos\Unity Discord Presence\bin\Debug\Unity Discord Presence.exe
+C:\Users\aloka\source\repos\Unity Discord Presence\bin\Debug\Unity Discord Presence.pdb
+C:\Users\aloka\source\repos\Unity Discord Presence\bin\Debug\DiscordRPC.dll
+C:\Users\aloka\source\repos\Unity Discord Presence\bin\Debug\Newtonsoft.Json.dll
+C:\Users\aloka\source\repos\Unity Discord Presence\bin\Debug\DiscordRPC.pdb
+C:\Users\aloka\source\repos\Unity Discord Presence\bin\Debug\DiscordRPC.xml
+C:\Users\aloka\source\repos\Unity Discord Presence\bin\Debug\Newtonsoft.Json.xml
+C:\Users\aloka\source\repos\Unity Discord Presence\obj\Debug\Unity Discord Presence.csproj.AssemblyReference.cache
+C:\Users\aloka\source\repos\Unity Discord Presence\obj\Debug\Unity Discord Presence.csproj.CoreCompileInputs.cache
+C:\Users\aloka\source\repos\Unity Discord Presence\obj\Debug\Unity Di.1A6CAF09.Up2Date
+C:\Users\aloka\source\repos\Unity Discord Presence\obj\Debug\Unity Discord Presence.exe
+C:\Users\aloka\source\repos\Unity Discord Presence\obj\Debug\Unity Discord Presence.pdb
